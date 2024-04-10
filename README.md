@@ -18,3 +18,6 @@ entrevistas técnicas
 - Utilização do Framework Quarkus
 - Todos os conceitos abordados durante o desenvolvimento K
 - Inúmeros recursos que foram apresentados no POM.XML - Dependências
+
+## Objetivo de Aprendizagem
+Entender as tecnologias e adicionar novas funções.
